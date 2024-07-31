@@ -1,0 +1,19 @@
+.moji{
+    color: white;
+}
+
+#home{
+    background-color: grey;
+    text-align: center;
+    color: white;
+}
+
+.header{
+    color: white;
+    border-bottom: 2px solid white;
+}
+
+input::placeholder {
+    color: lightgray;
+}
+
